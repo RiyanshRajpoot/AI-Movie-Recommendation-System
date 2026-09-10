@@ -5,7 +5,7 @@ An AI-powered content-based movie recommendation application built with Python, 
 ## Project Overview
 This system recommends movies based on textual content similarity including overview, genres, keywords, main cast, and director.
 
-## ⚙️ Methodology
+## Methodology
 1. **Data Preprocessing**: Handles missing values and merges movie metadata.
 2. **Feature Engineering**: Combines metadata features into lower-case tag strings.
 3. **Vectorization**: Transforms tags into numerical vectors using `CountVectorizer`.
